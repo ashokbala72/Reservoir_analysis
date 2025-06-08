@@ -8,3 +8,4 @@ openai
 scikit-learn
 requests
 Pillow
+dot-env
