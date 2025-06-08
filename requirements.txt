@@ -8,4 +8,4 @@ openai
 scikit-learn
 requests
 Pillow
-dot-env
+python-dotenv
