@@ -1,0 +1,10 @@
+streamlit>=1.25.0
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+openai
+scikit-learn
+requests
+Pillow
